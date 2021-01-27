@@ -14,11 +14,11 @@
 - Hazardous Bodies for Icaro's Oceans (should be done ??)
 - Fix any bad PQS fades (done - all pqs now uses the same fade)
 - Biomes (done)
-
-- Science Values + Entries (microbiobial life in palleo's ocaens??)
-
+- Science Values + Entries (microbiobial life in palleo's ocaens??) (done - no entires but it doesn't matter)
 - Proper timewarp limits
+
 - Double check descriptions
+
 << POINT OF POTENITAL RELEASE??? ONLY DELAY IF I WANT SCATTERER N SHIT AVAILABLE IMMEDIETELY >>
 - Scatter / EVE
 - Parallax
