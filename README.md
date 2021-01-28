@@ -28,7 +28,7 @@ The Vulture System has 6 planets and 13 moons, making for a total of 19 celestia
 ## Features 
 - 19 detailed bodies with their own individual stories and high amounts of care put into creation.
 - Two Gas Giants with detailed moons.
-- Hints towards life and the previous existance of it in the system.
+- Hints towards life and the previous existence of it in the system.
 - Scatterer / EVE support.
 - DistantObject support.
 - PlanetShine support.
