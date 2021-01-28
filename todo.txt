@@ -15,16 +15,9 @@
 - Fix any bad PQS fades (done - all pqs now uses the same fade)
 - Biomes (done)
 - Science Values + Entries (microbiobial life in palleo's ocaens??) (done - no entires but it doesn't matter)
-- Proper timewarp limits
+- Proper timewarp limits (done)
+- Double check descriptions (done)
+- Scatterer for all planets (done)
+- EVE (done)
 
-- Double check descriptions
-
-<< POINT OF POTENITAL RELEASE??? ONLY DELAY IF I WANT SCATTERER N SHIT AVAILABLE IMMEDIETELY >>
-- Scatter / EVE
-- Parallax
-
-
-
-
-
-- Palleo Trees (nope cus the amount of verticies is fucking insane lol)
+WE DONE BOYS
