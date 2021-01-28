@@ -1,6 +1,7 @@
 ![](https://upload.livaco.dev/u/ZTGJ86rVDp.png)
 # The Vulture System
 The Vulture Star is a main sequence star similar but more massive to Kerbol. It holds 6 planets, all with individual backstories. The Vulture System is my first ever full Kerbal Space Program project, taking about a month to complete. 
+[Forum Thread](https://forum.kerbalspaceprogram.com/index.php?/topic/199896-191kopernicus-the-vulture-system-a-new-star-system/)
 
 ## Bodies
 The Vulture System has 6 planets and 13 moons, making for a total of 19 celestial bodies in total. 
@@ -34,12 +35,12 @@ The Vulture System has 6 planets and 13 moons, making for a total of 19 celestia
 
 ## Installation
 **Requirements:**
-- [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases) (Will also work with the [Bleeding Edge](https://github.com/R-T-B/Kopernicus/releases))
-- The Mod Itself  
+- [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases) (Will also work with the [Bleeding Edge](https://github.com/R-T-B/Kopernicus/releases) however unrecommended)
+- The Mod Itself ([Download Latest Release Here](https://github.com/LivacoNew/VultureSystem/releases))
   
-You simply need to install Kopernicus (and it's dependencies) + the Vulture System into your KSP's GameData folder.
+You simply need to install Kopernicus (and it's dependencies) + the Vulture System into your KSP's GameData folder. Vulture should work with 1.9.1+
 
-**Recomended Mods**
+**Recommended Mods**
 - [Scatterer](https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip19x-110x-111x-scatterer-atmospheric-scattering-v00723-31122020/) - Adds better looking atmospheres.
 - [EVE](https://forum.kerbalspaceprogram.com/index.php?/topic/149733-18-environmentalvisualenhancements-180-2/) - Adds clouds to both Palleo and Desolation.
 - [Planet Shine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-141-planetshine-0261-mar-28-2018/) - Makes your vessels reflect the colors of the planet.
@@ -52,10 +53,10 @@ These mods follow a similar installation process.
 - [caps lock](https://forum.kerbalspaceprogram.com/index.php?/profile/200251-caps-lock/) - Made Vulture's sunflare and gave a lot of feedback.
 
 ## Support 
-The best way to get support regarding Vulture is to make a reply on the forum thread, or to make an issue on the github repo.
+The best way to get support regarding Vulture is to make a reply on the [forum thread](https://forum.kerbalspaceprogram.com/index.php?/topic/199896-191kopernicus-the-vulture-system-a-new-star-system/), or to make an issue on the github repo.
 
 ## Cool Screenshots
-These screenshots were all taken with all required and reccomended mods installed.  
+These screenshots were all taken with all required and recommended mods installed.  
 ![](https://upload.livaco.dev/u/1jRkr4MaNO.png)  
 ![](https://upload.livaco.dev/u/o6stdr8KRC.jpg)  
 ![](https://upload.livaco.dev/u/k9SKwVTg3J.jpg)  
