@@ -51,6 +51,9 @@ These mods follow a similar installation process.
 - [Kopernicus Discord Server](https://discord.com/invite/XmVp23s) - Main place I went to for help and feedback. Great community.
 - [caps lock](https://forum.kerbalspaceprogram.com/index.php?/profile/200251-caps-lock/) - Made Vulture's sunflare and gave a lot of feedback.
 
+## Support 
+The best way to get support regarding Vulture is to make a reply on the forum thread, or to make an issue on the github repo.
+
 ## Cool Screenshots
 These screenshots were all taken with all required and reccomended mods installed.  
 ![](https://upload.livaco.dev/u/1jRkr4MaNO.png)  
@@ -60,3 +63,6 @@ These screenshots were all taken with all required and reccomended mods installe
 ![](https://upload.livaco.dev/u/SOe6qpAwdV.jpg)  
 ![](https://upload.livaco.dev/u/qvGxorHLTP.jpg)  
 ![](https://upload.livaco.dev/u/3Up19E7TmK.png)  
+
+## Licence 
+Squad requires all addons be released with a licence. Vulture is licenced under Apache License 2.0. For a basic rundown you can go [here](https://choosealicense.com/licenses/apache-2.0/).
