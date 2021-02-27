@@ -43,7 +43,7 @@ The Vulture System has 6 planets and 13 moons, making for a total of 19 celestia
 You simply need to install Kopernicus (and it's dependencies) + the Vulture System into your KSP's GameData folder. Vulture should work with 1.9.1+
 
 **Recommended Mods**
-- [EVE](https://forum.kerbalspaceprogram.com/index.php?/topic/149733-18-environmentalvisualenhancements-180-2/) - Adds clouds to both Palleo and Desolation.
+- [EVE](https://forum.kerbalspaceprogram.com/index.php?/topic/149733-18-environmentalvisualenhancements-180-2/) - Adds clouds to both Palleo and Desolation. Make sure to get the stock configs (BoulderCo Folder) for this too! 
 - [Planet Shine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-141-planetshine-0261-mar-28-2018/) - Makes your vessels reflect the colors of the planet.
 - [DistantObject](https://forum.kerbalspaceprogram.com/index.php?/topic/189759-18-111x-distant-object-enhancement-continued-v2020-27-december-2020/) - Makes the planets visible from a distance.
 - [Interstellar Extended](https://forum.kerbalspaceprogram.com/index.php?/topic/172026-181-111-ksp-interstellar-extended-support-thread/) - Interstellar travel parts.
